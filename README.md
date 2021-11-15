@@ -1,6 +1,6 @@
-<img src="tictactoe.png"> 
 
-# TicTacToeApp
+
+#  :x: :o: TicTacToeApp  :x: :o:
 
 Written in Java for android studio operating system.
 
